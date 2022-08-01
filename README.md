@@ -8,6 +8,8 @@ The ongoing development on 2.3.x is done in this branch.
 
 Refer to the [OpenTX wiki](https://github.com/opentx/opentx/wiki) for information about setting up the tool chains for building OpenTX and OpenTX Companion as well as other development related issues.
 
+Richard made a change here:
+
 Useful links:
  * OpenTX Main Site https://www.open-tx.org/
  * OpenTx University http://open-txu.org/
